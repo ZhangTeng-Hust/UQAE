@@ -13,5 +13,5 @@ Joint prediction and accuracy enhancement （JPAE） methods for deep regression
 ## Main idea
 A joint DRL prediction and accuracy enhancement method considering the point-interval relationship is proposed, called JPAE, in which the transferability of the point prediction model to the interval estimation model in the shallow parameters and the accuracy enhancement of the point prediction due to the point-interval coupling relationship are considered. The Main idea is as follows.
 <div align=center>
-<img src=[https://github.com/ZhangTeng-Hust/JPAE/main/IMG/Main idea.png](https://github.com/ZhangTeng-Hust/JPAE/blob/main/IMG/Main%20idea.png)https://github.com/ZhangTeng-Hust/JPAE/blob/main/IMG/Main%20idea.png>
+<img src=https://github.com/ZhangTeng-Hust/JPAE/blob/main/IMG/Main%20idea.png
 </div>
