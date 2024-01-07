@@ -15,3 +15,8 @@ A joint DRL prediction and accuracy enhancement method considering the point-int
 <div align=center>
 <img src=https://github.com/ZhangTeng-Hust/JPAE/blob/main/IMG/Main%20idea.png
 </div>
+
+## Special Reminder
+No reproduction without permission！！！
+
+This work is currently being submitted to Elsevier, so no individual or organization can fork this repository and ues the data involved in this repository until it has been reviewed.
