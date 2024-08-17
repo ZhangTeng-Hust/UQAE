@@ -1,5 +1,5 @@
 ## Title
-Joint prediction and accuracy enhancement （JPAE） methods for deep regression learning considering the relationship between point and intervals
+UQAE: Uncertainty quantification and accuracy enhancement method for deep regression prediction scenarios 
 
 ## Description of the files
 - 1) _Result_evalute.py_：A function for evaluating the effectiveness of prediction interval estimation and point prediction accuracy
